@@ -1,0 +1,23 @@
+{
+  "author": "SemihDiker",
+  "description": "A project that does something awesome",
+  "keywords": [ "freecodecamp", "related", "words" ],
+  "license": "MIT",
+	"name": "fcc-learn-npm-package-json",
+  "version": "1.2.0",
+  "package": "MAJOR.MINOR.PATCH",
+	"dependencies": { 
+		"express": "^4.14.0",
+    "@freecodecamp/example": "^1.2.13"
+	},
+
+  
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
